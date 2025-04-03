@@ -1,0 +1,8 @@
+1: {
+  name: "material1",
+  qty: 8,
+},
+2: {
+  name: "material2",
+  qty: 12,
+},
